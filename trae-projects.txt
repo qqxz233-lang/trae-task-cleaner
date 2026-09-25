@@ -1,0 +1,7 @@
+# Trae CN 任务自动清理的项目清单
+# 一行一个项目名 (要和 Trae 窗口标题里的项目名完全一致)
+# # 开头的行是注释; 没打开窗口的项目会自动跳过
+
+my-web-app
+my-backend-api
+demo_chart
